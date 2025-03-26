@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.reserved-date {
+  @apply bg-red-500 text-white rounded-full;
+}
